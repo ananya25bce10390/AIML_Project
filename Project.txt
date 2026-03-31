@@ -1,7 +1,7 @@
 PROJECT REPORT: PhishGuard
 Course: AI & Machine Learning Fundamentals 
-Student Name: Akash Kumar Gautam
-Registration No. : 25BAI1****
+Student Name: Ananya Pandey
+Registration No. : 25BCE1****
 Date: March 30, 2026. 
 
 

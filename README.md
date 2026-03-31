@@ -1,4 +1,5 @@
-PhishGuard: AI-Powered Risk Scoring for Digital LiteracyBYOP Capstone Project
+PhishGuard: AI-Powered Risk Scoring for Digital Literacy
+BYOP Capstone Project
 AI & ML Fundamentals
 
 Project Overview
@@ -52,6 +53,6 @@ Browser Extension: Porting the logic to a Chrome extension to filter emails in r
 
 Author
 
-Name: Akash Kumar Gautam
+Name: Ananya pandey
 Course: AI & Machine Learning Fundamentals
-Platform: VITyarthi BYOP Submission
+Platform: VITyarthi 
